@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/selfpay-com/appsetid.git"
+    "url": "git+https://github.com/selfpay-terminals/appsetid.git"
   },
   "bugs": {
-    "url": "https://github.com/selfpay-com/appsetid/issues"
+    "url": "https://github.com/selfpay-terminals/appsetid/issues"
   },
   "keywords": [
     "capacitor",

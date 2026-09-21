@@ -1,11 +1,11 @@
-# appsetid
+# selfpaynow-appsetid
 
 Gets the AppSetId on Android
 
 ## Install
 
 ```bash
-npm install appsetid
+npm install selfpaynow-appsetid
 npx cap sync
 ```
 

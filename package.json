@@ -1,5 +1,5 @@
 {
-  "name": "appsetid",
+  "name": "selfpaynow-appsetid",
   "version": "0.0.1",
   "description": "Gets the AppSetId on Android",
   "main": "dist/plugin.cjs.js",
@@ -11,16 +11,16 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "Appsetid.podspec"
+    "SelfpaynowAppsetid.podspec"
   ],
   "author": "Selfpay",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/selfpay-com/appsetid.git"
+    "url": "git+https://github.com/selfpay-now/appsetid.git"
   },
   "bugs": {
-    "url": "https://github.com/selfpay-com/appsetid/issues"
+    "url": "https://github.com/selfpay-now/appsetid/issues"
   },
   "keywords": [
     "capacitor",
